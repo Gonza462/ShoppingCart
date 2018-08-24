@@ -1,0 +1,164 @@
+
+.container{
+
+    width: 100%;
+    margin-top: -15px;
+}
+.row{
+    padding-left: 20%;
+    height: 90%;
+}
+.row-2{
+
+    height: 30%;
+    width: 40%;
+    margin-top: 33%;
+    margin-left: 9%;
+}
+#footer-text{
+    margin-left: 10px;
+}
+.media-object-logo{
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.navbar-inverse{
+    background-color: #000000;
+}
+.table{
+    margin-bottom: 0px;
+}
+#text-prices{
+    text-align: right;
+}
+#cart-sum-text-1{
+    text-align: left;
+    margin-left: 5%;
+    color: #000000
+}
+#cart-sum-text-2{
+    margin-left: 5%;
+}
+
+.headText{
+    margin-left: 16%;
+    font-family: Arial;
+}
+#line-1{
+    background-color: #020005;
+
+}
+#line-2{
+
+}
+#sub-checkout-text{
+    text-align: right;
+}
+#sub-shipping{
+    text-align: right;
+}
+#sub-total{
+    text-align: right;
+}
+.panel{
+    margin-bottom: 20px;
+    border: 0px;
+}
+.mon > div{
+    display: inline-block;
+}
+.panel-body{
+    padding:0px;
+}
+.panel-cart{
+    width: 65%;
+    height: 50%;
+    background-color: #fcfafa;
+    box-shadow: 3px 3px 5px #b5b5b5;
+}
+.cart{
+    margin-left: 8%;
+}
+
+.panel-default-1{
+    border-color: #ffffff;
+}
+.panel-default>.panel-heading{
+    background-color: #f2f2f2;
+    padding-bottom: 0px;
+    border-color: transparent;
+}
+.panel-default-1>.panel-heading{
+    background-color: #f2f2f2;
+    padding-bottom: 0px;
+    border-color: transparent;
+}
+.dropdown{
+     margin-left: 48%;
+    padding-top: 15px;
+    font-size: 12px;
+
+ }
+.dropdown-toggle{
+    background-color: #fcf9f9;
+}
+.dropdown-ship{
+    margin-left: 48%;
+    padding-top: 15px;;
+}
+.btn-default{
+    border-color: transparent;
+    background-color: #fcf8f8
+}
+.remove{
+    padding-right: 10px;
+    color: #ff0019
+}
+#itemName{
+    padding-top: 10px;
+}
+#footer-text{
+    text-align: left;
+}
+.panel-footer{
+    padding: 1px;
+    background-color: #f4f4f4;
+    border-top: transparent;
+}
+.btn{
+    font-size: 12px;
+}
+.btn-success{
+    margin-left: 60%;
+    background-color: #5be952;
+    text-align: center;
+    width: 38%;
+
+    margin-bottom: 4%;
+    margin-top: -22px;
+    box-shadow: 3px 3px 5px #b5b5b5;
+}
+.btn-checkout{
+    background-color: #5be952;
+    color: #ffffff;
+    border-radius: 4px;
+    width: 75%;
+    height: 7%;
+    text-align: center;
+    box-shadow: 3px 3px 5px #b5b5b5;
+    margin-left: 12%;
+}
+#cont-shop{
+    margin-left: 25%;
+
+}
+#about{
+    margin-left: 5%;
+}
+#accepted{
+    margin-left: 5%;
+}
+.table{
+    background-color: #fcf9f9;
+}
+
